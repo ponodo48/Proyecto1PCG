@@ -1277,7 +1277,7 @@ MonoBehaviour:
   tileSize: 1
   wallHeight: 3
   floorHeight: 0
-  floorMaterial: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  floorMaterial: {fileID: 2100000, guid: 8dc43d9e3b9bfd346a922dc84cfc1b1d, type: 2}
   wallMaterial: {fileID: 2100000, guid: 5774871cb725ecc4ca92a61447d2c382, type: 2}
 --- !u!64 &197489265
 MeshCollider:
@@ -2267,7 +2267,7 @@ MonoBehaviour:
   model: {fileID: 677609273}
   turning_angle: 35
   length: 4
-  depth: 4
+  depth: 3
   thickness: 1.08
 --- !u!1 &446130622
 GameObject:
@@ -5437,7 +5437,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 63c60a58c4f5dc34ba875f4367f32801, type: 2}
+  - {fileID: 2100000, guid: e0f91876e570b8d459fee1adf7b7d29a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
